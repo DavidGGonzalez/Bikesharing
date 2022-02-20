@@ -8,6 +8,11 @@ To create a set of reports, dashboard and a *Tableau* story to convince investor
 ![Logo](/Images/Citi_Bike_logo.svg)
 
 
+
+## Tableau Public Site
+You can find the final __*Tableau Story*__ by [clicking here](https://public.tableau.com/app/profile/david.g.gonzalez/viz/NYCCitibikeChallenge_16453766948090/Module14ChallengeTableau?publish=yes)
+
+
 ## Resources
 * Data Source: We used an August 2019 csv file downloaded from citi bike public data repository.
 
